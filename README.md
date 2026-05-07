@@ -1,2 +1,2 @@
-# habity-bedside-clock-home-assistant
+# Home Assistant integration for the Habity bedside clock
 Home Assistant custom integration
