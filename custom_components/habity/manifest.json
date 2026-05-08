@@ -1,12 +1,12 @@
 {
   "domain": "habity",
-  "name": "Habity",
-  "version": "1.0.0",
-  "documentation": "https://github.com/habity-design/habity-bedside-clock-home-assistant",
-  "issue_tracker": "https://github.com/habity-design/habity-bedside-clock-home-assistant/issues",
-  "dependencies": [],
+  "name": "Habity Bedside Clock",
   "codeowners": ["@habity-design"],
-  "requirements": [],
   "config_flow": true,
-  "iot_class": "local_polling"
+  "dependencies": [],
+  "documentation": "https://github.com/habity-design/habity-bedside-clock-home-assistant",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/habity-design/habity-bedside-clock-home-assistant/issues",
+  "requirements": [],
+  "version": "1.0.0"
 }
