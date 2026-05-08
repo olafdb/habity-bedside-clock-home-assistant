@@ -1,4 +1,5 @@
 {
-  "name": "Habity",
-  "content_in_root": false
+  "name": "Habity Bedside Clock",
+  "content_in_root": false,
+  "render_readme": true
 }
