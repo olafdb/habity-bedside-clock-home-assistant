@@ -26,6 +26,8 @@ A Home Assistant integration for the [Habity Bedside Clock](https://habity.com),
 
 ### Via HACS (recommended)
 
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=habity-design&repository=habity-bedside-clock-home-assistant&category=integration)
+
 1. Open HACS in Home Assistant
 2. Go to **Integrations** → **⋮** → **Custom repositories**
 3. Add this repository URL and select **Integration**
