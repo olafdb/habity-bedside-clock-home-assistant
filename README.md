@@ -11,6 +11,8 @@ A Home Assistant integration for the [Habity Bedside Clock](https://habity.com),
 
 - 📡 Local polling — no cloud, no account required
 - 🕐 Exposes next alarm time
+- ⏰ Set next alarm time
+- ⚙️ Toggle next alarm on/off
 - ⚡ Instant button press update
 
 ---
